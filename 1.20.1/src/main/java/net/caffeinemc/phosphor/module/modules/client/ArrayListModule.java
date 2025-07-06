@@ -67,7 +67,7 @@ public class ArrayListModule extends Module implements Renderable {
 
             ImGui.pushFont(ImguiLoader.getBiggerDosisFont());
             ImGui.pushStyleColor(ImGuiCol.Text, color[0], color[1], color[2], 1f);
-            ImGui.text("Asteria");
+            ImGui.text("NYX");
             ImGui.popFont();
             ImGui.popStyleColor();
         }
